@@ -1,0 +1,190 @@
+[
+  {
+    "id": "fc001",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Julien Dupont",
+    "years_of_experience": 10,
+    "num_of_recipes": 50,
+    "likes": 5000,
+    "bio": "Julien Dupont is a renowned French chef with over 10 years of experience in the industry. He is passionate about creating delicious and innovative French dishes that showcase the beauty of French cuisine.",
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": ["1.5 lbs beef chuck, cut into 1-inch cubes", "2 cups red wine", "2 cups beef broth", "1 onion, chopped", "4 garlic cloves, minced"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, melt the butter over medium heat. Add the beef and cook until browned on all sides. Remove the beef from the pot and set aside. \n3. Add the onion and garlic to the pot and cook until softened. Stir in the tomato paste and cook for another minute. \n4. Add the wine, beef broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n5. Return the beef to the pot and add the carrots and celery. Cover the pot and transfer to the oven. Cook for 2-3 hours, until the beef is tender. \n6. Remove the bay leaf and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Ratatouille",
+        "ingredients": ["1 eggplant, diced", "1 zucchini, diced", "1 yellow squash, diced", "1 red bell pepper, diced", "1 green bell pepper, diced"],
+        "cooking_method": "1. Preheat the oven to 375°F. \n2. In a large bowl, toss the eggplant, zucchini, yellow squash, red bell pepper, green bell pepper, onion, garlic, thyme, oregano, salt, and pepper with the olive oil. \n3. Transfer the vegetables to a baking dish and spread them out in an even layer. \n4. Pour the can of diced tomatoes over the vegetables. \n5. Cover the baking dish with foil and bake for 45 minutes. \n6. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and the tomatoes have thickened. \n7. Serve hot or at room temperature.",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["4 chicken legs, bone-in", "2 cups red wine", "2 cups chicken broth", "1 onion, chopped", "4 slices bacon, chopped"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and set aside. \n3. Add the chicken to the pot and cook until browned on all sides. Remove the chicken from the pot and set aside. \n4. Add the onion and garlic to the pot and cook until softened. Add the mushrooms and cook until they release their liquid. \n5. Stir in the tomato paste and flour and cook for another minute. \n6. Add the wine, chicken broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n7. Return the chicken to the pot, along with the bacon. Cover the pot and transfer to the oven. Cook for 1-2 hours, until the chicken is tender. \n8. Remove the bay leaf and serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "chef001",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Julia Child",
+    "years_of_experience": 5,
+    "num_of_recipes": 100,
+    "likes": 50000,
+    "bio": "Julia Child was an American chef, author, and television personality who introduced French cuisine and cooking techniques to the American mainstream. She published several cookbooks, including Mastering the Art of French Cooking, which is considered a seminal work on French cuisine.",
+    "recipes": [
+      {
+        "name": "Potato Leek Soup",
+        "ingredients": [
+          "3 tablespoons unsalted butter",
+          "4 large leeks, white and light green parts only, roughly chopped (about 5 cups)",
+          "3 cloves garlic, peeled and smashed",
+          "2 pounds Yukon Gold potatoes, peeled and roughly chopped into ½-inch pieces",
+          "2 pounds Yukon Gold potatoes, peeled and roughly chopped into ½-inch pieces",
+          "2 bay leaves"
+        ],
+        "cooking_method": "Potato leek soup is simple to make, but first you have to deal with the leeks. They’re notoriously sandy and dirty, and very good at hiding it, so be sure to wash them well. Start by cutting off and discarding the root ends and thick dark green parts. Cut the leeks in half lengthwise and rinse each half under cold water, pulling apart the layers to remove any grit that’s tucked inside.how to make potato leek soup Once the leeks are clean, roughly chop them — you should get about five cups of chopped leeks from four large leeks. how to make potato leek soup To make the soup, melt the butter in a Dutch oven or large soup pot, then add the chopped leeks and garlic. how to make potato leek soup Cook, stirring occasionally, until soft and wilted. how to make potato leek soup Next, add the potatoes, chicken broth, bay leaves, thyme, salt and pepper. how to make potato leek soup Bring to a boil. how to make potato leek soup Then cover, reduce the heat, and simmer for 15 minutes, or until the potatoes are tender. how to make potato leek soup Fish out the bay leaves and thyme sprigs. how to make potato leek soup Then purée the soup with a hand-held immersion blender (or in a regular blender) until smooth. (If using a standard blender, be sure not to fill the jar more than halfway; leave the hole in the lid open and cover loosely with a dishtowel to allow the heat to escape.) how to make potato leek soup Finally, add the heavy cream. You can reduce the amount if you’d like but I wouldn’t leave it out completely. Cream makes the soup deliciously silky, rich, and smooth — just add it little by little until the soup tastes good to you. how to make potato leek soup Bring to a simmer, then taste and adjust the seasoning with salt and pepper. Serve hot, garnished with fresh thyme, chives, or anything you like.",
+        "rating": 4.8
+      },
+      {
+        "name": "Challah French Toast",
+        "ingredients": ["6 large eggs", "¾ cup low-fat milk", "¾ cup heavy cream", "2 tablespoons honey", "1½ teaspoons vanilla extract", "2 teaspoons cinnamon"],
+        "cooking_method": "Begin by combining the eggs, milk, cream, honey, vanilla, cinnamon and salt in a large baking dish. Whisk well. whisked  custard ingredients in baking dish Place a few slices of challah in the custard. Soaked challah for french toast Heat 1-1/2 tablespoons butter and 1-1/2 tablespoons oil over medium heat in a large skillet; add the soaked challah. cooking challah french toastCook until golden brown, 2 to 3 minutes per side. golden brown challah French toast Transfer the challah French toast to a wire rack and place in the oven to keep warm while cooking the remaining bread. challah French toast on rack Serve hot with maple syrup and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["4 chicken legs, bone-in", "2 cups red wine", "2 cups chicken broth", "1 onion, chopped", "4 slices bacon, chopped"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and set aside. \n3. Add the chicken to the pot and cook until browned on all sides. Remove the chicken from the pot and set aside. \n4. Add the onion and garlic to the pot and cook until softened. Add the mushrooms and cook until they release their liquid. \n5. Stir in the tomato paste and flour and cook for another minute. \n6. Add the wine, chicken broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n7. Return the chicken to the pot, along with the bacon. Cover the pot and transfer to the oven. Cook for 1-2 hours, until the chicken is tender. \n8. Remove the bay leaf and serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "chef002",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Jacques Pepin",
+    "years_of_experience": 6,
+    "num_of_recipes": 120,
+    "likes": 75000,
+    "bio": "Jacques Pepin is a French-born American chef, author, and television personality. He has written over 30 cookbooks and hosted numerous television shows, including Jacques Pepin: Fast Food My Way and Jacques Pepin: More Fast Food My Way.",
+    "recipes": [
+      {
+        "name": "French Apple Cake",
+        "ingredients": [
+          "1 cup all-purpose flour, spooned into measuring cup and leveled-off",
+          "1 teaspoon baking powder",
+          "¼ teaspoon salt",
+          "1 stick (½ cup) unsalted butter, at room temperature",
+          "⅔ cup granulated sugar, plus more for sprinkling over cake",
+          "2 large eggs"
+        ],
+        "cooking_method": "Begin by combining the flour, baking powder and salt in a small bowl. No need to sift; just whisk well. how to make french apple cake Set aside. Then, in the bowl of an electric mixer, cream the butter and sugar until light and fluffy. how to make french apple cake Add the eggs one at a time. how to make french apple cake Beat in the vanilla extract and rum. how to make french apple cake It will look a little grainy at this point; that’s okay. how to make french apple cake Add the dry ingredients. how to make french apple cake Mix until just combined. how to make french apple cake Add the chopped apples. how to make french apple cake Use a rubber spatula to fold the apples into the batter. how to make french apple cake Have a 9-inch spring form pan greased or a  9-inch cake pan greased, lined with parchment, and greased again. how to make french apple cake Scrape the batter into the prepared pan and even the top. how to make french apple cake Sprinkle with 1 tablespoon of granulated sugar. how to make french apple cake Bake the cake for about 40 minutes, until golden and crisp on top. how to make french apple cake Serve warm or room temperature, plain or with lightly sweetened whipped cream or vanilla ice cream.",
+        "rating": 4.8
+      },
+      {
+        "name": "Crepes",
+        "ingredients": ["6 large eggs", "¾ cup low-fat milk", "¾ cup heavy cream", "2 tablespoons honey", "1½ teaspoons vanilla extract", "2 teaspoons cinnamon"],
+        "cooking_method": "Begin by combining the eggs, milk, cream, honey, vanilla, cinnamon and salt in a large baking dish. Whisk well. whisked  custard ingredients in baking dish Place a few slices of challah in the custard. Soaked challah for french toast Heat 1-1/2 tablespoons butter and 1-1/2 tablespoons oil over medium heat in a large skillet; add the soaked challah. cooking challah french toastCook until golden brown, 2 to 3 minutes per side. golden brown challah French toast Transfer the challah French toast to a wire rack and place in the oven to keep warm while cooking the remaining bread. challah French toast on rack Serve hot with maple syrup and enjoy!",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["2¼ cups whole or 2% milk", "4 large eggs", "2 tablespoons sugar", "1 teaspoon vanilla extract", "½ teaspoon salt"],
+        "cooking_method": "  Place the milk, eggs, sugar, vanilla, and salt into a blender. Whiz for a few seconds to blend until smooth. eggs, milk, sugar, vanilla extract, and salt in blender Remove the lid and add the flour.adding flour to the blender Cover and blend again until completely smooth, about 30 seconds. Remove the lid, pour in the melted butter, cover, and blend until combined, about 10 seconds more. adding butter and blending crepe batterTransfer the batter to a separate container and let it rest in the refrigerator for at least 30 minutes or up to 24 hours. Resting provides time for the flour to absorb the liquid and for the gluten to “relax,” resulting in delicate crepes that aren’t rubbery. crepe batter in large measuring cup Heat a crepe pan or 8 to 10-inch nonstick skillet (see note) over medium heat. Grease the pan lightly and evenly with butter. Cooking the crepes in a little butter gives them a golden-brown, lacy surface.greasing the crepe pan with  butter Pour about ¼ cup of crepe batter into the center of the pan. pouring the crepe batter into the pan Immediately lift the pan off the heat and swirl the batter so that it forms a thin, even circle on the bottom of the pan.swirling the crepe batter around the pan Keep turning the pan until the batter is evenly spread. continuing to swirl the batter in the pan Cook for about 1 minute, until the top is set, the edges are dry, and the crepe is golden on the bottom. lifting the edge of the crepe with an offset spatula Lift the crepe with an offset spatula or butter knife, taking care not to scratch the pan with the utensil, and flip with your fingertips; cook the other side for about 20 seconds, or until slightly golden and spotted. flipped crepe cooking on second side Transfer the cooked crepe to a plate. Repeat with the remaining batter, greasing the pan with a bit of butter each time and adjusting the heat as necessary. Place the cooked crepes in a stack on the plate. Cover with plastic wrap until ready to serve.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "chef003",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Daniel Boulud",
+    "years_of_experience": 4,
+    "num_of_recipes": 80,
+    "likes": 60000,
+    "bio": "Daniel Boulud is a French chef and restaurateur based in New York City. He is the owner of several restaurants, including Daniel, which has been awarded three Michelin stars. Boul",
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": ["1.5 lbs beef chuck, cut into 1-inch cubes", "2 cups red wine", "2 cups beef broth", "1 onion, chopped", "4 garlic cloves, minced"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, melt the butter over medium heat. Add the beef and cook until browned on all sides. Remove the beef from the pot and set aside. \n3. Add the onion and garlic to the pot and cook until softened. Stir in the tomato paste and cook for another minute. \n4. Add the wine, beef broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n5. Return the beef to the pot and add the carrots and celery. Cover the pot and transfer to the oven. Cook for 2-3 hours, until the beef is tender. \n6. Remove the bay leaf and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Ratatouille",
+        "ingredients": ["1 eggplant, diced", "1 zucchini, diced", "1 yellow squash, diced", "1 red bell pepper, diced", "1 green bell pepper, diced"],
+        "cooking_method": "1. Preheat the oven to 375°F. \n2. In a large bowl, toss the eggplant, zucchini, yellow squash, red bell pepper, green bell pepper, onion, garlic, thyme, oregano, salt, and pepper with the olive oil. \n3. Transfer the vegetables to a baking dish and spread them out in an even layer. \n4. Pour the can of diced tomatoes over the vegetables. \n5. Cover the baking dish with foil and bake for 45 minutes. \n6. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and the tomatoes have thickened. \n7. Serve hot or at room temperature.",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["4 chicken legs, bone-in", "2 cups red wine", "2 cups chicken broth", "1 onion, chopped", "4 slices bacon, chopped"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and set aside. \n3. Add the chicken to the pot and cook until browned on all sides. Remove the chicken from the pot and set aside. \n4. Add the onion and garlic to the pot and cook until softened. Add the mushrooms and cook until they release their liquid. \n5. Stir in the tomato paste and flour and cook for another minute. \n6. Add the wine, chicken broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n7. Return the chicken to the pot, along with the bacon. Cover the pot and transfer to the oven. Cook for 1-2 hours, until the chicken is tender. \n8. Remove the bay leaf and serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "chef004",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Marie-Antoine Carême",
+    "years_of_experience": 12,
+    "num_recipes": 500,
+    "likes": 100000,
+    "bio": "Marie-Antoine Carême was a French chef and author who is considered to be one of the first celebrity chefs. He is credited with popularizing French cuisine and inventing numerous recipes, including the chef's hat and the standardization of kitchen measurements.",
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": ["1.5 lbs beef chuck, cut into 1-inch cubes", "2 cups red wine", "2 cups beef broth", "1 onion, chopped", "4 garlic cloves, minced"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, melt the butter over medium heat. Add the beef and cook until browned on all sides. Remove the beef from the pot and set aside. \n3. Add the onion and garlic to the pot and cook until softened. Stir in the tomato paste and cook for another minute. \n4. Add the wine, beef broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n5. Return the beef to the pot and add the carrots and celery. Cover the pot and transfer to the oven. Cook for 2-3 hours, until the beef is tender. \n6. Remove the bay leaf and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Ratatouille",
+        "ingredients": ["1 eggplant, diced", "1 zucchini, diced", "1 yellow squash, diced", "1 red bell pepper, diced", "1 green bell pepper, diced"],
+        "cooking_method": "1. Preheat the oven to 375°F. \n2. In a large bowl, toss the eggplant, zucchini, yellow squash, red bell pepper, green bell pepper, onion, garlic, thyme, oregano, salt, and pepper with the olive oil. \n3. Transfer the vegetables to a baking dish and spread them out in an even layer. \n4. Pour the can of diced tomatoes over the vegetables. \n5. Cover the baking dish with foil and bake for 45 minutes. \n6. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and the tomatoes have thickened. \n7. Serve hot or at room temperature.",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["4 chicken legs, bone-in", "2 cups red wine", "2 cups chicken broth", "1 onion, chopped", "4 slices bacon, chopped"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and set aside. \n3. Add the chicken to the pot and cook until browned on all sides. Remove the chicken from the pot and set aside. \n4. Add the onion and garlic to the pot and cook until softened. Add the mushrooms and cook until they release their liquid. \n5. Stir in the tomato paste and flour and cook for another minute. \n6. Add the wine, chicken broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n7. Return the chicken to the pot, along with the bacon. Cover the pot and transfer to the oven. Cook for 1-2 hours, until the chicken is tender. \n8. Remove the bay leaf and serve hot.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": "chef005",
+    "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
+    "chef_name": "Auguste Escoffier",
+    "years_of_experience": 10,
+    "num_of_recipes": 250,
+    "likes": 75000,
+    "bio": "Auguste Escoffier was a French chef, restaurateur, and culinary writer who is considered to be one of the greatest chefs of all time. He is credited with developing modern French cuisine and the brigade de cuisine system used in professional kitchens.",
+    "recipes": [
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": ["1.5 lbs beef chuck, cut into 1-inch cubes", "2 cups red wine", "2 cups beef broth", "1 onion, chopped", "4 garlic cloves, minced"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, melt the butter over medium heat. Add the beef and cook until browned on all sides. Remove the beef from the pot and set aside. \n3. Add the onion and garlic to the pot and cook until softened. Stir in the tomato paste and cook for another minute. \n4. Add the wine, beef broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n5. Return the beef to the pot and add the carrots and celery. Cover the pot and transfer to the oven. Cook for 2-3 hours, until the beef is tender. \n6. Remove the bay leaf and serve hot.",
+        "rating": 4.8
+      },
+      {
+        "name": "Ratatouille",
+        "ingredients": ["1 eggplant, diced", "1 zucchini, diced", "1 yellow squash, diced", "1 red bell pepper, diced", "1 green bell pepper, diced"],
+        "cooking_method": "1. Preheat the oven to 375°F. \n2. In a large bowl, toss the eggplant, zucchini, yellow squash, red bell pepper, green bell pepper, onion, garlic, thyme, oregano, salt, and pepper with the olive oil. \n3. Transfer the vegetables to a baking dish and spread them out in an even layer. \n4. Pour the can of diced tomatoes over the vegetables. \n5. Cover the baking dish with foil and bake for 45 minutes. \n6. Remove the foil and bake for another 15-20 minutes, until the vegetables are tender and the tomatoes have thickened. \n7. Serve hot or at room temperature.",
+        "rating": 4.5
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": ["4 chicken legs, bone-in", "2 cups red wine", "2 cups chicken broth", "1 onion, chopped", "4 slices bacon, chopped"],
+        "cooking_method": "1. Preheat the oven to 350°F. \n2. In a large Dutch oven, cook the bacon over medium heat until crisp. Remove the bacon with a slotted spoon and set aside. \n3. Add the chicken to the pot and cook until browned on all sides. Remove the chicken from the pot and set aside. \n4. Add the onion and garlic to the pot and cook until softened. Add the mushrooms and cook until they release their liquid. \n5. Stir in the tomato paste and flour and cook for another minute. \n6. Add the wine, chicken broth, bay leaf, thyme, salt, and pepper. Bring to a simmer. \n7. Return the chicken to the pot, along with the bacon. Cover the pot and transfer to the oven. Cook for 1-2 hours, until the chicken is tender. \n8. Remove the bay leaf and serve hot.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
