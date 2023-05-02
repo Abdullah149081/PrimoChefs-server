@@ -12,6 +12,12 @@ app.get("/chefAllData", (req, res) => {
   res.send(chefRecipes);
 });
 
+app.get("/chefAllData/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chefRecipes.find((chef) => chef.id === id);
+  res.send(selectedChef);
+});
+
 app.listen(port, () => {
   console.log(`primoChefs app listening on port ${port}`);
 });
