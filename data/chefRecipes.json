@@ -3,7 +3,7 @@
     "id": "fc001",
     "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
     "chef_name": "Julien Dupont",
-    "years_of_experience": 10,
+    "years_of_experience": 4,
     "num_of_recipes": 50,
     "likes": 5000,
     "bio": "Julien Dupont is a renowned French chef with over 10 years of experience in the industry. He is passionate about creating delicious and innovative French dishes that showcase the beauty of French cuisine.",
@@ -134,7 +134,7 @@
     "chef_picture": "https://y5k7j2k2.rocketcdn.me/wp-content/uploads/2023/01/paul-bocuse-960x480.jpg.webp",
     "chef_name": "Marie-Antoine Carême",
     "years_of_experience": 12,
-    "num_recipes": 500,
+    "num_of_recipes": 500,
     "likes": 100000,
     "bio": "Marie-Antoine Carême was a French chef and author who is considered to be one of the first celebrity chefs. He is credited with popularizing French cuisine and inventing numerous recipes, including the chef's hat and the standardization of kitchen measurements.",
     "recipes": [
