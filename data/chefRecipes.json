@@ -256,10 +256,10 @@
     "id": "chef005",
     "chef_picture": "https://cdn.tatlerasia.com/tatlerasia/i/2021/08/05152346-pierre-herme_cover_962x641.jpg",
     "chef_name": "Pierre Hermé",
-    "years_of_experience": 10,
+    "years_of_experience": 30,
     "num_of_recipes": 250,
     "likes": 75000,
-    "bio": "Pierre Hermé (French pronunciation: ​[pjɛʁ ɛʁme]; born 20 November 1961) is a French pastry chef and chocolatier. He began his career at the age of 14 as an apprentice to Gaston Lenôtre. Hermé was awarded the title of World's Best Pastry Chef in 2016 by The World's 50 Best Restaurants.[1] He was also ranked the fourth most influential French person in the world by Vanity Fair.[2] Hermé created his own brand in 1998 with Charles Znaty. formate this data json",
+    "bio": "Pierre Hermé (French pronunciation: ​[pjɛʁ ɛʁme]; born 20 November 1961) is a French pastry chef and chocolatier. He began his career at the age of 14 as an apprentice to Gaston Lenôtre. Hermé was awarded the title of World's Best Pastry Chef in 2016 by The World's 50 Best Restaurants.[1] He was also ranked the fourth most influential French person in the world by Vanity Fair.[2] Hermé created his own brand in 1998 with Charles Znaty.",
     "recipes": [
       {
         "name": "Macarons",
